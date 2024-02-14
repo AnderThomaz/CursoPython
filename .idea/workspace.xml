@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
+      <change afterPath="$PROJECT_DIR$/.idea/Cursoem Video.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seno e conseno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alguel de carro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula06a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculadora de desconto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contador de numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conversor de temperatura.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convertor de moedas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/distancia em metros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if e else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp3 no python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nota aluno.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pintando parede.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeira ew ultima ocorencia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primeiro e ultimo nome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procurar nome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorteio de nome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sorteio em lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taboada.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/verificação de texto.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bjhOmz6BvhmkpGGmflVGgABrtN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Aula 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seno e conseno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alguel de carro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculadora de desconto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador de numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversor de temperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convertor de moedas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.distancia em metros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if e else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mp3 no python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nota aluno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pintando parede.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primeira ew ultima ocorencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primeiro e ultimo nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.procurar nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorteio de nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorteio em lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taboada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.verificação de texto.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thomaz/CursoPuthon/Cursoem Video&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Thomaz\CursoPuthon\Cursoem Video" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex001">
+    <configuration name="Seno e conseno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cursoem Video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seno e conseno.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cursoem Video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cursoem Video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex002.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cursoem Video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex003.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mp3 no python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Cursoem Video" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp3 no python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mp3 no python" />
+        <item itemvalue="Python.Seno e conseno" />
+        <item itemvalue="Python.ex001" />
+        <item itemvalue="Python.ex003" />
+        <item itemvalue="Python.ex002" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="" />
+      <created>1706734367229</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706734367229</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="projetos" />
+    <option name="LAST_COMMIT_MESSAGE" value="projetos" />
+  </component>
+</project>
