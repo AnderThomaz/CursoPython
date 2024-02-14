@@ -5,39 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
-      <change afterPath="$PROJECT_DIR$/.idea/Cursoem Video.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula 10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seno e conseno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alguel de carro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula06a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/calculadora de desconto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contador de numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conversor de temperatura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convertor de moedas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distancia em metros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/if e else.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp3 no python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nota aluno.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pintando parede.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeira ew ultima ocorencia.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiro e ultimo nome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/procurar nome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorteio de nome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorteio em lista.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taboada.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/verificação de texto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,6 +210,15 @@
       <option name="presentableId" value="Default" />
       <updated>1706734367229</updated>
     </task>
+    <task id="LOCAL-00001" summary="projetos">
+      <option name="closed" value="true" />
+      <created>1707953273125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707953273125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
