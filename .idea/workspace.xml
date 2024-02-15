@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Custo_da_Viagem.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula 12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -33,49 +37,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Aula 10.executor": "Run",
-    "Python.Custo da Viagem.executor": "Run",
-    "Python.Seno e conseno.executor": "Run",
-    "Python.alguel de carro.executor": "Run",
-    "Python.aula07.executor": "Run",
-    "Python.calculadora de desconto.executor": "Run",
-    "Python.contador de numeros.executor": "Run",
-    "Python.conversor de temperatura.executor": "Run",
-    "Python.convertor de moedas.executor": "Run",
-    "Python.distancia em metros.executor": "Run",
-    "Python.ex000.executor": "Run",
-    "Python.ex001.executor": "Run",
-    "Python.ex002.executor": "Run",
-    "Python.ex003.executor": "Run",
-    "Python.if e else.executor": "Run",
-    "Python.mp3 no python.executor": "Run",
-    "Python.nota aluno.executor": "Run",
-    "Python.pintando parede.executor": "Run",
-    "Python.primeira ew ultima ocorencia.executor": "Run",
-    "Python.primeiro e ultimo nome.executor": "Run",
-    "Python.procurar nome.executor": "Run",
-    "Python.sorteio de nome.executor": "Run",
-    "Python.sorteio em lista.executor": "Run",
-    "Python.taboada.executor": "Run",
-    "Python.verificação de texto.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "full.screen.before.presentation.mode": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Thomaz/CursoPuthon/Cursoem Video",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.Analisando tranagulo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Custo da Viagem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Seno e conseno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.alguel de carro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula 12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculadora de desconto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculo de aumento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.contador de numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conversor de temperatura.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convertor de moedas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.distancia em metros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if e else.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mp3 no python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nota aluno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pintando parede.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primeira ew ultima ocorencia.executor&quot;: &quot;Run&quot;,
+    &quot;Python.primeiro e ultimo nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.procurar nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorteio de nome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorteio em lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.taboada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.verificação de texto.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thomaz/CursoPuthon/Cursoem Video&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Thomaz\CursoPuthon\Cursoem Video" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Seno e conseno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Analisando tranagulo">
+    <configuration name="Analisando tranagulo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Cursoem Video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,11 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (Aula 9)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seno e conseno.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Analisando tranagulo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex001" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Custo da Viagem" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Cursoem Video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,11 +116,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (Aula 9)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex001.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Custo da Viagem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex002" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="aula 12" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Cursoem Video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,11 +139,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (Aula 9)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex002.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula 12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex003" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculadora de desconto" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Cursoem Video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +162,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (Aula 9)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex003.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculadora de desconto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mp3 no python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="calculo de aumento" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Cursoem Video" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,11 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.9 (Aula 9)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mp3 no python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/calculo de aumento.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,15 +199,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.mp3 no python" />
-        <item itemvalue="Python.Seno e conseno" />
-        <item itemvalue="Python.ex001" />
-        <item itemvalue="Python.ex003" />
-        <item itemvalue="Python.ex002" />
-      </list>
-    </recent_temporary>
+    <list>
+      <item itemvalue="Python.Analisando tranagulo" />
+      <item itemvalue="Python.aula 12" />
+      <item itemvalue="Python.calculadora de desconto" />
+      <item itemvalue="Python.calculo de aumento" />
+      <item itemvalue="Python.Custo da Viagem" />
+    </list>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
