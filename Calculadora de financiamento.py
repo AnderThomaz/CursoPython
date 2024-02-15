@@ -34,4 +34,3 @@ elif FraSalario <= Nparcerlas and parcelas < 480:
 else:
     print('Seu Financimento foi Reprovado!')
     print('O valor da Parcela é de R${:.2f}, e ultrapassa os 30% R${:.2f} do seu salario'.format(Nparcerlas, FraSalario))
-
