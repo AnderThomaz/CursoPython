@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
-      <change afterPath="$PROJECT_DIR$/Comparando Numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conversão de Numeros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alistamento militar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alistamento militar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Alistamento militar.executor": "Run",
     "Python.Analisando tranagulo.executor": "Run",
     "Python.Aula 10.executor": "Run",
     "Python.Calculadora de financiamento.executor": "Run",
@@ -68,6 +67,7 @@
     "Python.primeira ew ultima ocorencia.executor": "Run",
     "Python.primeiro e ultimo nome.executor": "Run",
     "Python.procurar nome.executor": "Run",
+    "Python.radar eletronico.executor": "Run",
     "Python.sorteio de nome.executor": "Run",
     "Python.sorteio em lista.executor": "Run",
     "Python.taboada.executor": "Run",
@@ -337,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708025436113</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="projetos">
+      <option name="closed" value="true" />
+      <created>1708028418205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708028418205</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
