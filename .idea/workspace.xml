@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
+      <change afterPath="$PROJECT_DIR$/Comparando Numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conversão de Numeros.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,9 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "Python.Analisando tranagulo.executor": "Run",
     "Python.Aula 10.executor": "Run",
+    "Python.Calculadora de financiamento.executor": "Run",
+    "Python.Comparando Numeros.executor": "Run",
+    "Python.Conversão de Numeros.executor": "Run",
     "Python.Custo da Viagem.executor": "Run",
     "Python.Jogo da Advinhação.executor": "Run",
     "Python.Seno e conseno.executor": "Run",
@@ -73,12 +78,13 @@
     "full.screen.before.presentation.mode": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Thomaz/CursoPuthon/Cursoem Video",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/CursoPython",
     "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\CursoPython" />
       <recent name="C:\Users\Thomaz\CursoPuthon\Cursoem Video" />
     </key>
   </component>
@@ -323,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708025172083</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="projetos">
+      <option name="closed" value="true" />
+      <created>1708025436113</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708025436113</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

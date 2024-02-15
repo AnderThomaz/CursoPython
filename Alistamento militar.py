@@ -1,0 +1,1 @@
+dtns = int(input('Ano de Nascimento'))
