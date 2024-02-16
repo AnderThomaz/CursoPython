@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos" />
+    <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
+      <change afterPath="$PROJECT_DIR$/Analisando trinagulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Atlehas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gerenciador de Pagamentos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Media de notas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indice de massa corporal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alistamento militar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Alistamento militar.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/indice de massa corporal.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -32,61 +43,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.Alistamento militar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Analisando tranagulo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Calculadora de financiamento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Comparando Numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Conversão de Numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Custo da Viagem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Jogo da Advinhação.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Seno e conseno.executor&quot;: &quot;Run&quot;,
-    &quot;Python.alguel de carro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula 12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculadora de desconto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculo de aumento (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.calculo de aumento.executor&quot;: &quot;Run&quot;,
-    &quot;Python.contador de numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conversor de temperatura.executor&quot;: &quot;Run&quot;,
-    &quot;Python.convertor de moedas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.distancia em metros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if e else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mp3 no python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.nota aluno.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pintando parede.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primeira ew ultima ocorencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primeiro e ultimo nome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.procurar nome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.radar eletronico.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sorteio de nome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sorteio em lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.taboada.executor&quot;: &quot;Run&quot;,
-    &quot;Python.verificação de texto.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/PycharmProjects/CursoPython&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.Alistamento militar.executor": "Run",
+    "Python.Analisando tranagulo.executor": "Run",
+    "Python.Analisando trinagulos.executor": "Run",
+    "Python.Atlehas.executor": "Run",
+    "Python.Aula 10.executor": "Run",
+    "Python.Calculadora de financiamento.executor": "Run",
+    "Python.Comparando Numeros.executor": "Run",
+    "Python.Conversão de Numeros.executor": "Run",
+    "Python.Custo da Viagem.executor": "Run",
+    "Python.Gerenciador de Pagamentos.executor": "Run",
+    "Python.Jogo da Advinhação.executor": "Run",
+    "Python.Media de notas.executor": "Run",
+    "Python.Seno e conseno.executor": "Run",
+    "Python.alguel de carro.executor": "Run",
+    "Python.aula 12.executor": "Run",
+    "Python.aula07.executor": "Run",
+    "Python.calculadora de desconto.executor": "Run",
+    "Python.calculo de aumento (2).executor": "Run",
+    "Python.calculo de aumento.executor": "Run",
+    "Python.contador de numeros.executor": "Run",
+    "Python.conversor de temperatura.executor": "Run",
+    "Python.convertor de moedas.executor": "Run",
+    "Python.distancia em metros.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.if e else.executor": "Run",
+    "Python.indice de massa corporal.executor": "Run",
+    "Python.mp3 no python.executor": "Run",
+    "Python.nota aluno.executor": "Run",
+    "Python.pintando parede.executor": "Run",
+    "Python.primeira ew ultima ocorencia.executor": "Run",
+    "Python.primeiro e ultimo nome.executor": "Run",
+    "Python.procurar nome.executor": "Run",
+    "Python.radar eletronico.executor": "Run",
+    "Python.sorteio de nome.executor": "Run",
+    "Python.sorteio em lista.executor": "Run",
+    "Python.taboada.executor": "Run",
+    "Python.verificação de texto.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "full.screen.before.presentation.mode": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/CursoPython",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\PycharmProjects\CursoPython" />
       <recent name="C:\Users\Thomaz\CursoPuthon\Cursoem Video" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Jogo da Advinhação">
+  <component name="RunManager">
     <configuration name="Analisando tranagulo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Cursoem Video" />
       <option name="ENV_FILES" value="" />
@@ -351,7 +367,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708028759062</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="projetos">
+      <option name="closed" value="true" />
+      <created>1708090270156</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708090270156</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
