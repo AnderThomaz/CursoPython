@@ -1,4 +1,9 @@
-preco = float(input('Qual o valor do produto? '))
+print('=' * 10, end='')
+
+print(' Loja Thomaz ', end='')
+print('=' * 10)
+
+preco = float(input('Qual o valor do produto? R$ '))
 
 print('R$ {:.2f}'.format(preco))
 
@@ -12,7 +17,10 @@ print('[ 4 ] em 3x ou mas no cartão com 20% de juros')
 print('')
 pag = int(input('Selecione a forma de pagamento? '))
 print('')
-if pag == 1:
+if pag == 0 or pag > 4:
+    print('valor invalido, tente novamente!')
+
+elif pag == 1:
     valor = preco - (preco * 10 / 100)
     print('Total a pagar R${:.2f}'.format(valor))
 
@@ -25,16 +33,9 @@ elif pag == 3:
     print('Total a pagar 2x de R${:.2f}'.format(valor))
 
 else:
-    par = int(input('Quantas vezes? '))
-
-if  par == 2:
-    valor = preco / par
-    print('Total a pagar sem juros é de {}x de R${:.2f}'.format(par, valor))
-
-elif par == 1:
-    valor = preco - (preco * 5 / 100)
-    print('Total a pagar é de {}x de R${:.2f}'.format(par, valor))
-
-else:
-    valor = (preco + (preco * 20 /100)) / par
-    print('Total a pagar é de {}x de R${:.2f}'.format(par,valor))
+    parcerlas = int(input('Quantas vezes? '))
+    valor = (preco + preco * 20 / 100) / parcerlas
+    print('')
+    print('Total a pagar é de {}x de {:.2f}'.format(parcerlas, valor))
+    print('Valor a vista R${:.2f}'.format(preco))
+    print('Valor a total com juros R${:.2f}'.format((valor * parcerlas)))
