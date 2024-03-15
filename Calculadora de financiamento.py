@@ -17,6 +17,7 @@ print('\033[1;20;40m Em Quantas parcelas voce deseja pagar? MAXIMO 480vezes \033
 parcelas = int(input('Numeros de parcelas '))
 print('-' * 34)
 
+
 Nparcerlas = valorCasa / parcelas
 FraSalario = salario * 30/100
 
