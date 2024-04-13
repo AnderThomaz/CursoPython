@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50d84532-ce45-42f8-8f54-731ccfb26bbe" name="Changes" comment="projetos">
-      <change afterPath="$PROJECT_DIR$/Contagem regressiva.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jogo Pedra Papel e Tesoura.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula 13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tabuada 2.0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/todo os numeros pares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Cursoem Video.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Cursoem Video.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_02_2024_20_45__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_02_2024_20_45__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Soma de impares.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gerenciador de Pagamentos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Gerenciador de Pagamentos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +43,7 @@
     &quot;Python.Gerenciador de Pagamentos.executor&quot;: &quot;Run&quot;,
     &quot;Python.Jogo Pedra Papel e Tesoura.executor&quot;: &quot;Run&quot;,
     &quot;Python.Seno e conseno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Soma de impares.executor&quot;: &quot;Run&quot;,
     &quot;Python.alguel de carro.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula 12.executor&quot;: &quot;Run&quot;,
     &quot;Python.aula 13.executor&quot;: &quot;Run&quot;,
@@ -244,7 +237,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707953712334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="projetos">
+      <option name="closed" value="true" />
+      <created>1708269862672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708269862672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="projetos">
+      <option name="closed" value="true" />
+      <created>1708269876777</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1708269876777</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
